@@ -51,7 +51,7 @@ with a passion for building web and mobile projects with innovative ideas and a 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:nouralden067@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="nouralden067@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.facebook.com/nour.alden.308647?locale=ar_AR"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/nouralden778/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nour-alden-88377b385/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
